@@ -1,6 +1,6 @@
 {
     "name": "get-or-set-cache",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Shortcut to get or set cache easily.",
     "main": "src/index.js",
     "scripts": {
