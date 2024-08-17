@@ -1,4 +1,4 @@
-import NodeCache from "node-cache";
+const NodeCache = require("node-cache");
 
 const DEFAULT_TTL = 60 * 60 * 24;
 
