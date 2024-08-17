@@ -1,8 +1,8 @@
 {
     "name": "get-or-set-cache",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Shortcut to get or set cache easily.",
-    "main": "src/index.js",
+    "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
