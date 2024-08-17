@@ -11,5 +11,8 @@
     "node-cache"
   ],
   "author": "Tyler Jones",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node-cache": "^5.1.2"
+  }
 }
