@@ -1,18 +1,18 @@
 {
-  "name": "get-or-set-cache",
-  "version": "1.0.0",
-  "description": "Shortcut to get or set cache easily.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "cache",
-    "node-cache"
-  ],
-  "author": "Tyler Jones",
-  "license": "UNLICENSED",
-  "dependencies": {
-    "node-cache": "^5.1.2"
-  }
+    "name": "get-or-set-cache",
+    "version": "1.0.2",
+    "description": "Shortcut to get or set cache easily.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "cache",
+        "node-cache"
+    ],
+    "author": "Tyler Jones",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "node-cache": "^5.1.2"
+    }
 }
