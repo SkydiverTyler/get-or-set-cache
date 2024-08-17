@@ -7,7 +7,7 @@ const CACHE = new NodeCache({
     checkperiod: 0,
 });
 
-export const getOrSetCache = async (key, ttl, fn) => {
+export default async (key, ttl, fn) => {
     // Set TTL to `false`
     // to debug the callback function (prevent caching)
     if (ttl === false) {
